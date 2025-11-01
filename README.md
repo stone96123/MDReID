@@ -60,11 +60,10 @@ python test_net.py --config_file configs/MSVR310/MDReID.yml --model_path MSVR310
 ## Citation
 Please kindly cite this paper in your publications if it helps your research:
 ```bash
-@inproceedings{tan2025Modality,
+@inproceedings{feng2025mdreid,
   title={MDReID: Modality-Decoupled Learning for Any-to-Any Multi-Modal Object Re-Identification},
   author={Yingying, Feng and Jie, Li and Jie, Hu and Yukang, Zhang and Lei, Tan and Jiayi, Ji},
-  booktitle={},
-  pages={},
+  booktitle={Advances in Neural Information Processing Systems},
   year={2025}
 }
 ```
