@@ -52,9 +52,9 @@ python test_net.py --config_file configs/MSVR310/MDReID.yml --model_path MSVR310
 #### Results
 |  Dataset  | Rank@1 | mAP  | Model |
 |:---------:|:------:|:----:| :------: |
-| RGBNT201  |  85.2  | 82.1 | [model](https://drive.google.com) |
-| RGBNT100  |  95.6  | 85.3 | [model](https://drive.google.com) |
-| MSVR310   |  68.9  | 51.0 | [model](https://drive.google.com) |
+| RGBNT201  |  85.2  | 82.1 | [model](https://drive.google.com/file/d/14kd4rUdSJT26UKKQs_Emxx9iL0bi69da/view?usp=drive_link) |
+| RGBNT100  |  95.6  | 85.3 | [model](https://drive.google.com/file/d/1g8Y28L7MUauVDq_XVFngXYWMULOd8X4M/view?usp=drive_link) |
+| MSVR310   |  68.9  | 51.0 | [model](https://drive.google.com/file/d/1eTkFMuM7Efpphnwv0ZT5Iix1yv2Db6mb/view?usp=drive_link) |
 
 
 ## Citation
