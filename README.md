@@ -9,7 +9,7 @@ The official repository for MDReID: Modality-Decoupled Learning for Any-to-Any M
 ```bash
 mkdir data
 ```
-Download the person datasets [RGBNT201](https://drive.google.com/drive/folders/1EscBadX-wMAT56_It5lXY-S3-b5nK1wH), [RGBNT100](https://pan.baidu.com/s/1xqqh7N4Lctm3RcUdskG0Ug code：rjin), and the [MSVR310](https://drive.google.com/file/d/1IxI-fGiluPO_Ies6YjDHeTEuVYhFdYwD/view?usp=drive_link).
+Download the person datasets [RGBNT201](https://drive.google.com/drive/folders/1EscBadX-wMAT56_It5lXY-S3-b5nK1wH), [RGBNT100](https://pan.baidu.com/s/1xqqh7N4Lctm3RcUdskG0Ug) (code：rjin), and the [MSVR310](https://drive.google.com/file/d/1IxI-fGiluPO_Ies6YjDHeTEuVYhFdYwD/view?usp=drive_link).
 
 ### Installation
 
